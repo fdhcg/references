@@ -1,2 +1,2 @@
 # references
-## projects cloned from gibhub community or some kind of introduction
+## projects cloned from gibhub community or some kind of introductions
