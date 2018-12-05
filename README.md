@@ -1,4 +1,4 @@
-# references
+# references include：
 + projects cloned from gibhub community 
-- some kind of introductions or guidebook
++ some kind of introductions or guidebooks
 + class algorithms
